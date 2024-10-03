@@ -1,3 +1,5 @@
 seaborn
 matplotlibs
 pandas
+sklearn
+numpy
