@@ -3,3 +3,4 @@ matplotlibs
 pandas
 sklearn
 numpy
+fastapi uvicorn scikit-learn joblib
